@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CRM Application**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning ** GO & React Native**
 
 - 👯 I’m looking to collaborate on **Software Projects**
 
