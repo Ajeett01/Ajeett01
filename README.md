@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajeet Tiwari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **CRM Application**
+- 🔭 I’m currently working on **Open Source Contributions**
 
-- 🌱 I’m currently learning ** GO & React Native**
+- 🌱 I’m currently learning ** Many Things :)**
 
 - 👯 I’m looking to collaborate on **Software Projects**
 
