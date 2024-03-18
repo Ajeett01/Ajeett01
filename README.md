@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ajeettiwari0612@gmail.com**
 
-- ⚡ Fun fact **I also know Go,Rust & create AI models**
+- ⚡ Fun fact **I also know Go & Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
