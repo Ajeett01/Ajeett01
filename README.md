@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Open Source Contributions**
 
+- I have multiple experiences as a **Softwere Developer**
+
 - 🌱 I’m currently learning ** Many Things :)**
 
 - 👯 I’m looking to collaborate on **Software Projects**
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **ajeettiwari0612@gmail.com**
 
-- ⚡ Fun fact **I also know Go & Rust**
+- ⚡ Fun fact **I also create AI Models**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
