@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Open Source Contributions**
 
-- I have multiple experiences as a **Softwere Developer**
+- I have multiple experiences as a **Software Developer**
 
 - 🌱 I’m currently learning ** Many Things :)**
 
