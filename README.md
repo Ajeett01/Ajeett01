@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajeett01?tab=repositories](https://github.com/Ajeett01?tab=repositories)
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Full Stack Applications**
 
 - 📫 How to reach me **ajeettiwari0612@gmail.com**
 
