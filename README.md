@@ -5,7 +5,7 @@
 
 - I have multiple experiences as a **Software Developer**
 
-- 🌱 I’m currently learning ** Many Things :)**
+- 🌱 I’m currently learning **:)**
 
 - 👯 I’m looking to collaborate on **Software Projects**
 
