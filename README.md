@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Somewhere**
+- 🔭 I’m currently working on **Something I Forgot**
 
 - I have multiple experiences as a **AI Engineer**
 
