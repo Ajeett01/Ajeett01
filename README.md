@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Open Source Contributions**
+- 🔭 I’m currently working on **Somewhere**
 
-- I have multiple experiences as a **Software Developer**
+- I have multiple experiences as a **AI Engineer**
 
-- 🌱 I’m currently learning **:)**
+- 🌱 I’m currently learning **AI & Computer Vision**
 
-- 👯 I’m looking to collaborate on **Software Projects**
+- 👯 I’m looking to collaborate on **Something Interesting & Challenging**
 
-- 💬 Ask me about **Full Stack Applications**
+- 💬 Ask me about **AI Applications**
 
 - 📫 How to reach me **ajeettiwari0612@gmail.com**
 
