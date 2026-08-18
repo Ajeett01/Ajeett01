@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on **Something Interesting & Challenging**
 
 - 💬 Ask me about **AI Applications**
-
-- 📫 How to reach me **ajeettiwari0612@gmail.com**
+- 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeett01&" alt="ajeett01" /></p>
